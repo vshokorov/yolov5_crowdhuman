@@ -16,5 +16,8 @@ setup(
     author_email='some_mail@gmail.com',
     url="",
     version='0.0.1',
+    install_requires=[
+        'numpy',
+    ],
 #     install_requires=install_requires,
 )
