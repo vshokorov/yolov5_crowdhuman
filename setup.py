@@ -19,5 +19,6 @@ setup(
     install_requires=[
         'numpy',
     ],
+    py_modules=["yolov5_crowdhuman"]
 #     install_requires=install_requires,
 )
